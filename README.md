@@ -6,23 +6,28 @@
 
 #Usage
 1.在代码中使用 
->setContentView(R.id.xx)
->DragLayout layout = new DragLayout(this);
->final SlideMenu menu = new SlideMenu(this);//侧滑菜单
->layout.updateRangeRatio(0.5f);//滑动范围
->layout.setBackgroundResource(R.drawable.icon_bg_slide);//主背景
->layout.attachToActivity(this, menu);
->layout.setOnDragStateListener(new OnDragStateListener() {
->>@Override
->>public void onOpen() {
->>}
->>@Override
->>public void onDrag(float percent) {
->>}
->>@Override
->>public void onClose() {
->>}
->});
+```java
+setContentView(R.id.xx)
+DragLayout layout = new DragLayout(this);
+final SlideMenu menu = new SlideMenu(this);//侧滑菜单
+layout.updateRangeRatio(0.5f);//滑动范围
+layout.setBackgroundResource(R.drawable.icon_bg_slide);//主背景
+layout.attachToActivity(this, menu);
+layout.setOnDragStateListener(new OnDragStateListener() {
+
+      @Override
+      public void onOpen() {
+      }
+      
+      @Override
+      public void onDrag(float percent) {
+      }
+      
+      @Override
+      public void onClose() {
+      }
+});
+```
 2.在XML中使用
   <DragLayout>
   
