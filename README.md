@@ -49,10 +49,10 @@ layout.setOnDragStateListener(new OnDragStateListener() {
   </DragLayout>
 ```
 #Thanks
-Developers @BlueMor [DragLayout](https://github.com/BlueMor/DragLayout "原项目地址")
+Developers @[BlueMor](https://github.com/BlueMor) [DragLayout](https://github.com/BlueMor/DragLayout "原项目地址")
 
 #About me
-黎稀
+[黎稀](http://qxu1142210252.my3w.com/ "备案中")
 lixi0912@gmail.com
 
 #License
