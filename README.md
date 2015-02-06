@@ -1,6 +1,7 @@
 #DragLayout
-基于BlueMor的DragLayout二次开发, 简化其使用过程. 支持在代码中直接使用
-由于实现的效果没有变化,So.图我也就没有换了
+基于`BlueMor`的`DragLayout`二次开发, 简化其`使用`过程. 支持在代码中直接使用
+由于实现的效果没有变化,So.图我也就没有换了.
+
 ![](https://github.com/BlueMor/DragLayout/raw/master/screenshots/123.gif)
 
 #Usage
