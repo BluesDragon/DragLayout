@@ -58,6 +58,7 @@ Developers @[BlueMor](https://github.com/BlueMor) [DragLayout](https://github.co
 lixi0912@gmail.com
 
 #License
+```
 Copyright (c) 2014 Anton Malinskiy
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -72,3 +73,4 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 Come on, don't tell me you read that.
+```
