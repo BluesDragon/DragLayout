@@ -29,6 +29,7 @@ layout.setOnDragStateListener(new OnDragStateListener() {
 });
 ```
 2.在XML中使用
+```
   <DragLayout>
   
     <!--SlideMenu Layout -->
@@ -39,7 +40,7 @@ layout.setOnDragStateListener(new OnDragStateListener() {
     <ViewGroup>
     </Viewgroup>
   </DragLayout>
-
+```
 #Thanks
 Developers @BlueMor [DragLayout](https://github.com/BlueMor/DragLayout "原项目地址")
 
