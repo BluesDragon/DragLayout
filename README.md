@@ -4,6 +4,12 @@
 
 ![](https://github.com/BlueMor/DragLayout/raw/master/screenshots/123.gif)
 
+
+#Import
+
+* `supportV4`
+* `nineoldandroids`
+
 #Usage
 1.在代码中使用 
 ```java
