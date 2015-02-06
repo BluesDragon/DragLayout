@@ -18,7 +18,7 @@ DragLayout layout = new DragLayout(this);
 final SlideMenu menu = new SlideMenu(this);//侧滑菜单
 layout.updateRangeRatio(0.5f);//滑动范围
 layout.setBackgroundResource(R.drawable.icon_bg_slide);//主背景
-layout.attachToActivity(this, menu);
+layout.attachToActivity(this, menu);//after setBackground
 layout.setOnDragStateListener(new OnDragStateListener() {
 
       @Override
