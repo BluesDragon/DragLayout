@@ -14,6 +14,7 @@
 * 修改其滑动范围可控
 * 在原来的基础上支持代码生成,注在attchActiviy之前需先设置背景
 * 修改将其主布局控制放入DragLayout，不再限制于原来的MyRelativeLayout
+* 移除了原来的shadowImageView
 
 #Usage
 * 在代码中使用 
