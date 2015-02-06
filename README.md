@@ -39,6 +39,7 @@ layout.setOnDragStateListener(new OnDragStateListener() {
     <!-- Main Layout -->
     <ViewGroup>
     </Viewgroup>
+    
   </DragLayout>
 ```
 #Thanks
