@@ -53,6 +53,8 @@ Developers @[BlueMor](https://github.com/BlueMor) [DragLayout](https://github.co
 
 #About me
 [黎稀](http://qxu1142210252.my3w.com/ "备案中")
+
+#Contact me
 lixi0912@gmail.com
 
 #License
