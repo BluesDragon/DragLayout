@@ -1,5 +1,5 @@
 #DragLayout
-基于`BlueMor`的`DragLayout`二次开发, 简化其`使用`过程. 支持在代码中直接使用
+基于`BlueMor`的`DragLayout`二次开发, 简化其`使用`过程. 在原来的基础上支持代码生成
 由于实现的效果没有变化,So.图我也就没有换了.
 
 ![](https://github.com/BlueMor/DragLayout/raw/master/screenshots/123.gif)
@@ -9,6 +9,11 @@
 
 * `supportV4`
 * `nineoldandroids`
+
+#Change Log
+*修改其滑动范围可控
+*在原来的基础上支持代码生成,注在attchActiviy之前需先设置背景
+*修改将其主布局控制放入DragLayout，不再限制于原来的MyRelativeLayout
 
 #Usage
 * 在代码中使用 
