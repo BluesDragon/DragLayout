@@ -11,7 +11,7 @@
 * `nineoldandroids`
 
 #Usage
-1.在代码中使用 
+* 在代码中使用 
 ```java
 setContentView(R.id.xx)
 DragLayout layout = new DragLayout(this);
@@ -34,7 +34,7 @@ layout.setOnDragStateListener(new OnDragStateListener() {
       }
 });
 ```
-2.在XML中使用
+* 在XML中使用
 ```
   <DragLayout>
   
