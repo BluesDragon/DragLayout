@@ -58,7 +58,7 @@ layout.setOnDragStateListener(new OnDragStateListener() {
 Developers @[BlueMor](https://github.com/BlueMor) [DragLayout](https://github.com/BlueMor/DragLayout "原项目地址")
 
 #About me
-黎稀
+[黎稀](http://www.cxh.name/)
 
 #Contact me
 lixi0912@gmail.com
